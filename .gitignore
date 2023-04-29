@@ -1,0 +1,5 @@
+.idea
+.vsc
+node_modules
+*.lock
+-------
